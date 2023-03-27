@@ -1,0 +1,5 @@
+https://github.com/justadudewhohacks/face-recognition.js-models/tree/master/models
+
+link do site para baixar os arquivos que vou usar nas cnns da biblioteca Dlib
+
+Neste link há vários modelos de redes neurais convulucionais já treinadas.
